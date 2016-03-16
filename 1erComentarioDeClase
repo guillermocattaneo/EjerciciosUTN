@@ -1,3 +1,4 @@
+Profe: Octavio Villegas
 
 Para comenzar, abrir el xampp, e iniciar el APACHE, y ya que esta el sql
 <br><br>Salto de linea es el br<br><br>
@@ -19,6 +20,19 @@ http://php.net/
 
 https://css-tricks.com
 
-Templates form html5
+Buscar para copiar formularios	->	Templates form html5
 https://www.freshdesignweb.com/css-registration-form-templates/
+
+
+
+
+
+
+Tarea:
+	Hacer un commit y un repositorio
+
+Tipos de Type:
+button		checkbox		color		date 		datetime 		datetime-local 		email 		file		hidden		image
+month 		number 		password		radio		range 		reset 		search		submit		tel 		text 		time 
+url		week
 
