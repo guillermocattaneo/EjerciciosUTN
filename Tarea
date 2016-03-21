@@ -1,6 +1,12 @@
 1- Crear una cuenta en Github, un usuario academico.
 2- Crear 3 repositorios (algo asi como un album o carpeta).
-	*En el 1ro, debera tener como minimo 6 commits (eso de guardar comentarios...), en este repositorio subiremos un formulario de registro, solicitando datos, con distintos controles, recordar que el password se pide 2 veces, pedir: Fecha, mail, pagina web, algun numero, y 6 controles mas, como minimo, para el pedido de datos (Input de distintos tipos, select, checkbox, y radio) 
+	*En el 1ro, debera tener como minimo 6 commits (eso de guardar comentarios...),
+en este repositorio subiremos un formulario de registro:
+solicitando datos, con distintos controles, recordar que el password se pide 2 veces, 
+	pedir: 
+Fecha, mail, pagina web, algun numero, y 6 controles mas, como minimo, para el pedido de datos 
+(Input de distintos tipos, select, checkbox, y radio) 
+
 	*En el 2do, contendra un formulario de Log-in, con un control de tipo Password, uno de tipo Mail, un boton que diga "ingresar" y otro "Uy, olvide mi clave!", debera tener como minimo 6 commits, bajar el formato de Log-in, los botones no haran nada por ahora.
 	*En el 3ro, una pagina de inicio de Mi Portal (peluqueria, veterinaria, aula; alguna imagen con frase logotipo o lo que sea) con dos botones, TODO HTML, 
 		1er boton-> Log-in, que mostrara el formulario de Log-in (ya creado)
